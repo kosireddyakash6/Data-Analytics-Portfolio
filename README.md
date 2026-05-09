@@ -72,7 +72,7 @@ Built KPI dashboard for operational performance tracking
 
 👉 Skills: Power BI | DAX | Data Modeling | Operations Analytics
 
-🧠 Core Skills (Improved Version)
+🧠 Core Skills
 SQL (Data Extraction & Business Queries)
 Power BI (Interactive Dashboard Development)
 DAX (KPI Calculations & Business Metrics)

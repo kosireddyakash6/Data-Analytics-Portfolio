@@ -1,82 +1,92 @@
-# Data-Analytics-Portfolio
-**End-to-end Data Analytics Portfolio using SQL, Power BI &amp; Business Intelligence**
+📊 Data Analytics Portfolio – Akash
 
-# 📊 Data Analytics Portfolio – Akash
+SQL | Power BI | DAX | Business Intelligence | Data Modeling
 
-Business analytics portfolio showcasing how raw data is transformed into KPI-driven insights using SQL, Power BI, and data modeling.
+Business-focused Data Analyst portfolio demonstrating how raw data is transformed into KPI-driven insights, operational improvements, and business decision support dashboards.
 
-I am a Data Analyst aspirant focused on solving real-world business problems using:
+I specialize in solving real-world business problems by combining data analysis, KPI design, and interactive dashboards to support strategic decision-making.
 
-SQL (Data extraction & transformation)
-Power BI (Dashboarding & storytelling)
-DAX (Business KPIs & analytics)
-Data modeling & business insights
+🚀 Featured Projects (Business Impact Driven)
+🚕 Ola Ride-Sharing Analytics (Operations Optimization)
 
-I specialize in converting raw business data into KPI-driven insights and decision-making dashboards that support operational and financial strategy..
+Built an operations analytics dashboard to improve ride allocation efficiency and reduce cancellation issues.
 
-**🚀 Featured Projects**
-**🚕 Ola Ride-Sharing Analytics (Operations Optimization)**
-✔ Identified 25% cancellation rate driven by driver-side cancellations during peak hours, indicating operational inefficiencies in ride allocation.
-Identified allocation imbalance across vehicle types
-Built KPI-driven operational dashboard
+Identified 25% ride cancellation rate, primarily driven by driver-side cancellations during peak hours
+Revealed demand–supply mismatch across vehicle categories, impacting fulfillment efficiency
+Analyzed peak-hour inefficiencies affecting ride allocation and service reliability
+Designed KPI dashboard for cancellation rate, demand-supply balance, and fulfillment efficiency
 
-👉 Skills: Power BI | DAX | KPI Analysis | Business Insights
+👉 Business Impact: Helped identify key operational bottlenecks affecting customer experience and revenue leakage
 
+👉 Skills: Power BI | DAX | KPI Design | Operations Analytics
 
-**🏦 Insurance Business Performance Analytics (Finance BI)**
-Identified 30–40% ROI variation across policy types, highlighting significant product profitability imbalance in insurance portfolio.
-Analyzed ROI, CAGR, and underwriting efficiency
-Identified top-performing agents & policy profitability gaps
-Built financial decision-support dashboard
+🏦 Insurance Business Performance Analytics (Finance BI)
+
+Developed a financial analytics dashboard to evaluate policy profitability and agent performance.
+
+Identified 30–40% variation in ROI across policy types, highlighting product profitability imbalance
+Evaluated agent-level performance differences impacting revenue distribution
+Analyzed underwriting efficiency and policy contribution to profitability
+Built KPI dashboard covering ROI, CAGR, and policy performance metrics
+
+👉 Business Impact: Enabled better understanding of profitable insurance products and agent contribution
 
 👉 Skills: SQL | Power BI | Data Modeling | Financial Analytics
 
+🚚 Smart Last-Mile Delivery Optimization (Logistics BI)
 
-**🚚 Smart Last-Mile Delivery Optimization (Logistics BI)**
-Identified delivery delay concentration in specific zones, indicating route inefficiencies affecting operational performance.
-Optimized delivery efficiency using KPI tracking
-Identified delay zones and fuel inefficiencies
-Improved operational decision-making
+Created a logistics performance dashboard to analyze delivery efficiency and route optimization.
+
+Identified delivery delays concentrated in specific geographic zones, indicating route inefficiencies
+Analyzed fuel usage and delivery time variations across routes
+Detected operational bottlenecks affecting last-mile delivery performance
+Built KPI tracking system for delivery time, efficiency, and zone performance
+
+👉 Business Impact: Helped improve delivery efficiency visibility and identify optimization areas
 
 👉 Skills: SQL | Power BI | Operations Analytics
 
+🛍️ Retail Sales Performance Dashboard (Revenue & Customer Insights)
 
-******🛍️ Retail Sales Performance Dashboard*(Revenue + Customer)**
-Identified revenue and profitability variation across product categories, highlighting opportunities for margin optimization and customer segmentation strategy.
-Sales trend analysis across categories and regions
-Profitability and revenue optimization insights
-Customer segmentation analysis
+Built a sales analytics dashboard for revenue tracking and customer behavior analysis.
+
+Identified revenue and margin variations across product categories
+Performed customer segmentation based on purchase patterns
+Analyzed sales trends across regions and categories
+Built KPI dashboard for revenue, profit margin, and customer segmentation
+
+👉 Business Impact: Supported pricing and category-level optimization decisions
 
 👉 Skills: Power BI | DAX | Business Intelligence
 
-**✈️ Travelopia Operations Analytics (Operations Intelligence)**
+✈️ Travelopia Operations Analytics (Operational Intelligence)
 
-✔ Identified performance variation across operational segments, indicating uneven resource utilization and efficiency gaps within the system.
+Developed operational analytics dashboard to evaluate service performance and efficiency gaps.
 
-✔ Detected seasonal fluctuations impacting operational stability and trend consistency.
+Identified performance variation across operational segments affecting efficiency
+Detected seasonal fluctuations impacting business stability and forecasting accuracy
+Highlighted underperforming segments contributing to operational inefficiencies
+Built KPI dashboard for operational performance tracking
 
-✔ Highlighted underperforming segments contributing to overall operational inefficiency.
+👉 Business Impact: Improved visibility into operational inefficiencies and seasonal trends
 
 👉 Skills: Power BI | DAX | Data Modeling | Operations Analytics
 
-
-🧠 Core Skills
-Data Cleaning & Transformation (SQL / Excel)
-Data Modeling (Star Schema)
-KPI Design & Business Metrics
-Dashboard Design (Power BI)
-DAX Calculations
-Business Problem Solving
+🧠 Core Skills (Improved Version)
+SQL (Data Extraction & Business Queries)
+Power BI (Interactive Dashboard Development)
+DAX (KPI Calculations & Business Metrics)
+Data Modeling (Star Schema Design)
+KPI Design & Business Problem Solving
+Data Cleaning & Transformation
+Business Insight Generation
 🎯 What I Bring as a Data Analyst
 
-✔ Ability to convert raw data into business decisions
-✔ Strong understanding of operational & financial KPIs
-✔ Experience building end-to-end BI dashboards
-✔ Analytical thinking for real-world business problems
+✔ Strong ability to translate business problems into data-driven solutions
+✔ Experience building KPI-focused dashboards for operations, finance, and retail domains
+✔ Ability to identify inefficiencies and revenue leakage through data
+✔ End-to-end BI workflow understanding (SQL → Modeling → Dashboard → Insights)
 
+📌 Career Objective
 
-**📌 Goal**
-
-To work as a Data Analyst / Business Analyst in a data-driven organization where I can deliver insights that improve business performance.
-
-📌 This portfolio demonstrates end-to-end business analytics capability across operations, finance, logistics, and customer domains, showcasing the ability to transform raw data into strategic insights that support data-driven decision-making and business optimization.
+To contribute as a Data Analyst / Business Analyst in a data-driven organization by delivering actionable insights that improve operational efficiency, revenue performance, and strategic decision-making.
